@@ -25,7 +25,7 @@ from handlers import (
     yt_handler
 )
 
-BOT_TOKEN = "8025427449:AAFLluSwoXcMlOUVdM6h9d0r1hLMqft9WjM"
+BOT_TOKEN = "8034233581:AAGaa1eU8oGwnZTwwpweiKNIiRblCsdX3kk"
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
 # Flask for web hosting
